@@ -5,7 +5,6 @@ import './index.css';
 function App(){
   return(
     <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <Routes>
 
     </BrowserRouter>
   )
